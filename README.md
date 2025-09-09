@@ -1,2 +1,2 @@
 # eletronics.ino
-Repositório de eletrônica feito por mim 
+Repositório de eletrônica feito por mim para desenvolvimento de projetos vinculados a OXEBOTS equipe de róbotica
